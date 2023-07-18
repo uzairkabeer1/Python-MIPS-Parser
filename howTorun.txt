@@ -1,0 +1,3 @@
+1) First of all you have the python setup on you pc and any IDE installed.
+2) The open the code folder in the IDE and click on the "Final_code.py" to open it and run it
+3) I didn't use any external library for this purpose assessment, just used the built in libraries in the python.
